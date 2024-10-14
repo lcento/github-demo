@@ -1,0 +1,3 @@
+[submodule "module/styles"]
+	path = module/styles
+	url = ../github-demo-module
