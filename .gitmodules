@@ -1,4 +1,4 @@
 [submodule "module/styles"]
 	path = module/styles
-	url = ../github-demo-module
+	url = https://github.com/lcento/github-demo-module.git 
         branch = feature-module-style 
