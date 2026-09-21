@@ -22,4 +22,6 @@ Commit #11 during squash activity
 
 Commit #12 during squash activity
 
+Commit #13 - This is from dev 2 making a bug fix change
+
 Commit #13 during squash activity
