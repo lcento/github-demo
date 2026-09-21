@@ -27,3 +27,11 @@ Commit #13 - This is from dev 2 making a bug fix change
 Commit #13 during squash activity
 
 Commit #14 - Developer 1 working on the bug fix
+
+Commit #15 - Squash local commit 1
+
+Commit #16 - Squash local commit 2
+
+Commit #17 - Squash local commit 3
+
+Commit #18 - Squash local commit 4
