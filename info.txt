@@ -36,4 +36,8 @@ Commit #17 - Squash local commit 3
 
 Commit #18 - Squash local commit 4
 
+Commit #19 - Cherry Pick demo commit 1
+
+Commit #20 - Cherry Pick demo commit 2
+
 No more commits after this line.
