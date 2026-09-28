@@ -35,3 +35,5 @@ Commit #16 - Squash local commit 2
 Commit #17 - Squash local commit 3
 
 Commit #18 - Squash local commit 4
+
+No more commits after this line.
